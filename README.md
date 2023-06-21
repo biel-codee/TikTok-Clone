@@ -10,7 +10,7 @@ vai interpretar, e adicionar uma nova publicação de acordo com as minhas espec
   + NodeJs
   + Git / GitHub
 
-# Segue a baixo a docuementaçao do React
+# Segue a baixo a documentação do React
 
 # Getting Started with Create React App
 
