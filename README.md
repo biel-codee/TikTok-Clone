@@ -1,7 +1,7 @@
 # TikTok - Clone 
 O projeto foi desenvolvido atráves da criação de arquivos no NodeJs e Front-end utilizando o React e CSS e a estrutura básica do HTML, 
-o TikTok - Clone está com backend linkado com o banco de dados do Firebase ou seja basta eu adicionar um novo post que o backend do 
-vai interpretar e adicinar de acordo com as minhas especificações.
+o TikTok - Clone está com backend linkado com o banco de dados do Firebase ou seja basta eu adicionar um novo documento que o backend 
+vai interpretar, e adicionar uma nova publicação de acordo com as minhas especificações.
 
 # 🛠️Tecnologias
   + React
